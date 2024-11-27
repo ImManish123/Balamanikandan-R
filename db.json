@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "username": "dhiyanesh",
+      "password": "Tanushree@12",
+      "email": "dhiyanesh90957@gmail.com",
+      "phone": "8248407278",
+      "id": "dXpscX5"
+    },
+    {
+      "username": "dhyan",
+      "password": "123456",
+      "email": "dhyan@gmail.com",
+      "phone": "8248407278",
+      "id": "f169yFK"
+    },
+    {
+      "username": "bala",
+      "password": "manish1234",
+      "email": "bala123@gmail.com",
+      "phone": "8248407278",
+      "id": "Y7EXX58"
+    },
+    {
+      "username": "DeepikaMam",
+      "password": "12345678",
+      "email": "Deepika@gmail.com",
+      "phone": "8248407278",
+      "id": "cI-pl4a"
+    },
+    {
+      "username": "Ashwath S",
+      "password": "ashwath@2005",
+      "email": "aswhwat2005@gmail.com",
+      "phone": "9843350200",
+      "id": "blouKdz"
+    },
+    {
+      "username": "jairus",
+      "password": "12345678",
+      "email": "jairus123@gmail.com",
+      "phone": "9843350200",
+      "id": "5HhjwI9"
+    },
+    {
+      "username": "akshara",
+      "password": "12345678",
+      "email": "akshara191206@gmail.com",
+      "phone": "9843350200",
+      "id": "5HhjwI9"
+    }
+  ]
+}
